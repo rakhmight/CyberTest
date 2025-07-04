@@ -1,0 +1,273 @@
+
+[
+  {
+    "question": "Что такое кибербезопасность",
+    "question_uz": "Kiberxavfsizlik nima?",
+    "options": [
+      "Защита от физических угроз",
+      "Защита персональных данных на бумаге",
+      "Защита информации и устройств от цифровых угроз",
+      "Контроль качества лекарств"
+    ],
+    "options_uz": [
+      "Jismoniy tahdidlardan himoya",
+      "Qog‘ozdagi shaxsiy maʼlumotlarni himoya qilish",
+      "Axborot va qurilmalarni raqamli tahdidlardan himoya qilish",
+      "Dori-darmon sifatini nazorat qilish"
+    ],
+    "correct": "Защита информации и устройств от цифровых угроз",
+    "correct_uz": "Axborot va qurilmalarni raqamli tahdidlardan himoya qilish"
+  },
+  {
+    "question": "Почему медицинские учреждения являются целью кибератак?",
+    "question_uz": "Nega tibbiyot muassasalari kiberhujumlarning maqsadi bo‘ladi?",
+    "options": [
+      "Имеют много наличных денег",
+      "Содержат чувствительную информацию о пациентах",
+      "Имеют слабый интернет",
+      "Используют бумажные записи"
+    ],
+    "options_uz": [
+      "Ko‘p naqd pulga ega",
+      "Bemorlarga oid maxfiy maʼlumotlarni o‘z ichiga oladi",
+      "Zaif internetga ega",
+      "Qog‘oz yozuvlardan foydalanadi"
+    ],
+    "correct": "Содержат чувствительную информацию о пациентах",
+    "correct_uz": "Bemorlarga oid maxfiy maʼlumotlarni o‘z ichiga oladi"
+  },
+  {
+    "question": "Какой из паролей является наиболее безопасным?",
+    "question_uz": "Qaysi parol eng xavfsiz sanaladi?",
+    "options": [
+      "12345678",
+      "qwerty",
+      "M3D!2024*kl",
+      "password"
+    ],
+    "options_uz": [
+      "12345678",
+      "qwerty",
+      "M3D!2024*kl",
+      "password"
+    ],
+    "correct": "M3D!2024*kl",
+    "correct_uz": "M3D!2024*kl"
+  },
+  {
+    "question": "Что такое фишинг?",
+    "question_uz": "Phishing (Fishing) nima?",
+    "options": [
+      "Вид компьютерной игры",
+      "Форма медицинского анализа",
+      "Мошенническое письмо, маскирующееся под официальное",
+      "Диагностика с использованием интернета"
+    ],
+    "options_uz": [
+      "Kompyuter o‘yini turi",
+      "Tibbiy tahlil shakli",
+      "Maʼlumotlarni o‘g‘irlash uchun firibgarlik xabari",
+      "Internet orqali diagnostika"
+    ],
+    "correct": "Мошенническое письмо, маскирующееся под официальное",
+    "correct_uz": "Maʼlumotlarni o‘g‘irlash uchun firibgarlik xabari"
+  },
+  {
+    "question": "Что следует сделать при получении подозрительного письма?",
+    "question_uz": "Shubhali xat qabul qilganingizda nima qilishingiz kerak?",
+    "options": [
+      "Открыть и прочитать всё",
+      "Ответить отправителю",
+      "Сообщить в IT-отдел и не открывать вложения",
+      "Удалить и забыть"
+    ],
+    "options_uz": [
+      "Ochib, hammasini o‘qish",
+      "Jo‘natuvchiga javob berish",
+      "IT-bo‘limga xabar berish va ilovalarni ochmaslik",
+      "O‘chirib, unutish"
+    ],
+    "correct": "Сообщить в IT-отдел и не открывать вложения",
+    "correct_uz": "IT-bo‘limga xabar berish va ilovalarni ochmaslik"
+  },
+  {
+    "question": "Можно ли отправлять фото анализа пациента через социальные сети?",
+    "question_uz": "Bemor tahlili fotosuratini ijtimoiy tarmoqlar orqali yuborish mumkinmi?",
+    "options": [
+      "Да, если пациент не против",
+      "Да, если это быстрее",
+      "Нет, это нарушение конфиденциальности",
+      "Только ночью"
+    ],
+    "options_uz": [
+      "Ha, agar bemor rozi bo‘lsa",
+      "Ha, agar shoshilsa",
+      "Yo‘q, bu maxfiylikni buzadi",
+      "Faqat tungi paytda"
+    ],
+    "correct": "Нет, это нарушение конфиденциальности",
+    "correct_uz": "Yo‘q, bu maxfiylikni buzadi"
+  },
+  {
+    "question": "Что такое вредоносное ПО (вирус)?",
+    "question_uz": "Zararli dasturiy taʼminot (virus) nima?",
+    "options": [
+      "Безопасное обновление системы",
+      "Программа для диагностики",
+      "Программа, наносящая вред данным",
+      "Программа для защиты системы"
+    ],
+    "options_uz": [
+      "Xavfsiz tizim yangilanishi",
+      "Diagnostika dasturi",
+      "Maʼlumotlarga zarar yetkazuvchi dastur",
+      "Tizimni himoya qiluvchi dastur"
+    ],
+    "correct": "Программа, наносящая вред данным",
+    "correct_uz": "Maʼlumotlarga zarar yetkazuvchi dastur"
+  },
+  {
+    "question": "Какой способ хранения пароля НЕ является безопасным?",
+    "question_uz": "Qaysi parol saqlash usuli xavfsiz emas?",
+    "options": [
+      "Использование менеджера паролей",
+      "Запись на бумаге и хранение в столе",
+      "Запоминание",
+      "Хранение в защищённом приложении"
+    ],
+    "options_uz": [
+      "Parol menejeri ishlatish",
+      "Qog‘ozga yozib shkafda saqlash",
+      "Yodlash",
+      "Himoyalangan ilovada saqlash"
+    ],
+    "correct": "Запись на бумаге и хранение в столе",
+    "correct_uz": "Qog‘ozga yozib shkafda saqlash"
+  },
+  {
+    "question": "Что делать, если компьютер начал работать странно?",
+    "question_uz": "Agar kompyuter g‘alati ishlay boshlasa nima qilish kerak?",
+    "options": [
+      "Продолжать работу",
+      "Игнорировать",
+      "Сообщить ответственному сотруднику",
+      "Установить игры"
+    ],
+    "options_uz": [
+      "Ishni davom ettirish",
+      "Eʼtiborsiz qoldirish",
+      "Masʼul xodimga xabar berish",
+      "O‘yин o‘rnatish"
+    ],
+    "correct": "Сообщить ответственному сотруднику",
+    "correct_uz": "Masʼul xodimga xabar berish"
+  },
+  {
+    "question": "Какие данные считаются конфиденциальными?",
+    "question_uz": "Qaysi maʼlumotlar maxfiy hisoblanadi?",
+    "options": [
+      "Имя пациента",
+      "Диагноз и результаты анализов",
+      "Паспортные данные",
+      "Всё выше перечисленное"
+    ],
+    "options_uz": [
+      "Bemorning ismi",
+      "Diagnostika va tahlil natijalari",
+      "Passport maʼlumotlari",
+      "Yuqoridagi barcha"
+    ],
+    "correct": "Всё выше перечисленное",
+    "correct_uz": "Yuqoridagi barcha"
+  },
+  {
+    "question": "Как часто нужно менять пароли?",
+    "question_uz": "Parollarni qanchalik tez-tez o‘zgartirish kerak?",
+    "options": [
+      "Раз в 10 лет",
+      "Никогда",
+      "Регулярно, желательно каждые 3–6 месяцев",
+      "Только при смене работы"
+    ],
+    "options_uz": [
+      "Har 10 yilda bir marta",
+      "Hech qachon",
+      "Muntazam, har 3–6 oyda bir marta",
+      "Faqat ishni o‘zgartirganda"
+    ],
+    "correct": "Регулярно, желательно каждые 3–6 месяцев",
+    "correct_uz": "Muntazam, har 3–6 oyda bir marta"
+  },
+  {
+    "question": "Можно ли использовать одну флешку дома и на работе?",
+    "question_uz": "Uyda va ishda bitta fleshkani ishlatish mumkinmi?",
+    "options": [
+      "Да, если на ней музыка",
+      "Нет, это риск заражения вирусами",
+      "Только если она новая",
+      "Если её одолжили"
+    ],
+    "options_uz": [
+      "Ha, agar unda musiqa bo‘lsa",
+      "Yo‘q, bu virus yuqtirish xavfi",
+      "Faqat yangi bo‘lsa",
+      "Agar qarzga olgan bo‘lsangiz"
+    ],
+    "correct": "Нет, это риск заражения вирусами",
+    "correct_uz": "Yo‘q, bu virus yuqtirish xavfi"
+  },
+  {
+    "question": "Кто несёт ответственность за утечку информации?",
+    "question_uz": "Axborot oqib chiqish uchun kim javobgar?",
+    "options": [
+      "Только IT-отдел",
+      "Только руководство",
+      "Каждый сотрудник, допустивший ошибку",
+      "Никто"
+    ],
+    "options_uz": [
+      "Faqat IT-bo‘lim",
+      "Faqat rahbariyat",
+      "Xatoga yo‘l qo‘ygan har bir xodim",
+      "Hech kim"
+    ],  
+    "correct": "Каждый сотрудник, допустивший ошибку",
+    "correct_uz": "Xatoga yo‘l qo‘ygan har bir xodim"
+  },
+  {
+    "question": "Что делать при подозрении на кибератаку?",
+    "question_uz": "Kiberhujum gumon qilinganda nima qilish kerak?",
+    "options": [
+      "Перезагрузить компьютер",
+      "Позвонить другу",
+      "Немедленно отключить интернет и сообщить в IT",
+      "Удалить все файлы"
+    ],
+    "options_uz": [
+      "Kompyuterni qayta yuklash",
+      "Do‘stga qo‘ng‘iroq qilish",
+      "Darhol internetni uzish va IT-bo‘limga xabar berish",
+      "Hamma fayllarni o‘chirish"
+    ],
+    "correct": "Немедленно отключить интернет и сообщить в IT",
+    "correct_uz": "Darhol internetni uzish va IT-bo‘limga xabar berish"
+  },
+  {
+    "question": "Можно ли использовать личную почту для отправки рабочих документов?",
+    "question_uz": "Xususiy elektron pochtadan ish hujjatlarini yuborishda foydalanish mumkinmi?",
+    "options": [
+      "Да, если быстро нужно",
+      "Нет, это небезопасно",
+      "Только в выходные",
+      "Если попросил начальник"
+    ],
+    "options_uz": [
+      "Ha, agar tez zarur bo‘lsa",
+      "Yo‘q, bu xavfsiz emas",
+      "Faqat dam olish kunlari",
+      "Agar rahbar so‘rasa"
+    ],
+    "correct": "Нет, это небезопасно",
+    "correct_uz": "Yo‘q, bu xavfsiz emas"
+  }
+]
