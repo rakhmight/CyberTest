@@ -119,7 +119,7 @@ async def cmd_stats(message: types.Message):
     if not recs:
         await message.answer("Нет результатов.")
         return
-    lines = [f"{r.full_name} ({r.language}): {r.score_percent}% - {'OK' if r.passed else 'Fail'}" for r in recs]
+    lines = [f"{r.full_name} ({r.language}): {r.score_percent}% - {'Cool' if r.passed else 'Fail'}" for r in recs]
     await message.answer("\n".join(lines))
 
 @dp.message(Command("export"))
